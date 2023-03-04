@@ -1,0 +1,29 @@
+/*Selector {
+	Property: value;
+
+}*/	 
+
+ 
+ body { background-image: url(webimage.jfif
+ );
+ background-size:cover;
+
+
+}
+
+li { list-style: none; }
+
+a { color: black; }
+
+p { text-align: center; }
+ 	  
+
+h1 { color:AA6C39;
+
+	text-align: center;
+	
+	}
+
+   #see { text-align: left; color: red }
+  
+ .retro input {color: pink}  
